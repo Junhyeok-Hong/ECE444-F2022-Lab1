@@ -1,5 +1,5 @@
 # Lab1
-Name: Junhyeok Hong\
+Name: Junhyeok Hong
 
 ** Activity 1**\
 ![](images/activity1.png)
