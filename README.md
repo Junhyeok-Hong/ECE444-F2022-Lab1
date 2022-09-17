@@ -28,3 +28,7 @@ https://github.com/americobarros/ECE444-F2022-Lab1
 https://github.com/Junhyeok-Hong/ECE444-F2022-EP
 
 ** Activity 7**\
+![](images/activity7_1.png)
+![](images/activity7_2.png)
+
+** Activity 8**\
